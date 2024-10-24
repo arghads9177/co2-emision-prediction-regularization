@@ -1,4 +1,4 @@
-# CO2 Emission Prediction with Regression Model
+# CO2 Emission Prediction
 
 ## Project Overview
 This project aims to predict the **CO2 emissions** of different types of cars based on the **volume** of fuel and **weight** of the vehicle using a regression model. By analyzing the relationship between these independent variables and the target variable (CO2 emission), we can estimate CO2 emission levels for various cars.
